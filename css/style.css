@@ -6,5 +6,8 @@
   justify-content: space-between;
 }
 body {
-  font-size:22px;
+  font-size: 22px;
+  font-family: "Roboto Condensed", sans-serif;
+  background-color: #ededed;
+  color: #2e6e6e;
 }
